@@ -1,0 +1,61 @@
+{
+  "id": "mock-doc-id",
+  "url": null,
+  "type": "home",
+  "href": null,
+  "tags": [],
+  "first_publication_date": "1970-01-01T00:00:01+0000",
+  "last_publication_date": "1970-01-01T00:00:01+0000",
+  "slugs": [],
+  "linked_documents": [],
+  "lang": "en-us",
+  "alternate_languages": [],
+  "data": {
+    "title": "closer",
+    "sub_title": [
+      {
+        "type": "paragraph",
+        "text": "Quis magna ipsum consectetur tempor tempor.",
+        "spans": []
+      }
+    ],
+    "link_action": {
+      "link_type": "Web",
+      "url": "http://google.com"
+    },
+    "mobile": "dream",
+    "mobile_content": [
+      {
+        "type": "paragraph",
+        "text": "Ex irure elit fugiat commodo magna tempor et consequat ut sit deserunt. Quis pariatur qui ipsum minim dolor non deserunt consequat irure proident anim id non. Elit est ad aliquip consequat aute officia laborum est dolor exercitation voluptate sunt laboris.",
+        "spans": []
+      }
+    ],
+    "mobile_banner": {
+      "dimensions": {
+        "width": 900,
+        "height": 500
+      },
+      "alt": null,
+      "copyright": null,
+      "url": "https://images.unsplash.com/photo-1547082299-de196ea013d6"
+    },
+    "title_web": "better",
+    "web_content": [
+      {
+        "type": "paragraph",
+        "text": "Est elit exercitation nisi eiusmod dolore qui cupidatat reprehenderit voluptate excepteur dolor occaecat aute laboris.",
+        "spans": []
+      }
+    ],
+    "web_banner": {
+      "dimensions": {
+        "width": 900,
+        "height": 500
+      },
+      "alt": null,
+      "copyright": null,
+      "url": "https://images.unsplash.com/photo-1607582278043-57198ac8da43"
+    }
+  }
+}
